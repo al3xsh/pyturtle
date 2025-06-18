@@ -36,7 +36,7 @@ s.setup(width=1000, height=750)
 # run the drawing
 for i in range(8):
 	t.left(45)
-	spiral(100)
+	spiral(200)
 
 # hide the turtle and wait for the window to be closed
 t.hideturtle()
